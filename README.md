@@ -28,3 +28,5 @@ Limit download speed or download workers if you get rate limited:
 ```cmd
 python downloader.py https://some-artist.bandcamp.com --workers 2
 ```
+
+<!-- last-checked: 2026-09-13 -->
